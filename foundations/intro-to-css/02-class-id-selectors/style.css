@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+/* Classes */
+
+.odd-class {
+    background-color: oklch(76% 0.13 20);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-class-bigger-font {
+    font-size: 24px;
+}
+
+/* IDs */
+
+#id-one {
+    color: oklch(64% 0.15 215);
+    font-size: 36px;
+}
+
+#id-another {
+    background-color: oklch(80% 0.13 140);
+    font-size: 24px;
+    font-weight: bold;
+}
